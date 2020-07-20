@@ -6,3 +6,5 @@ DOMAIN,api.picsart.com,Fake iAP Policy
 DOMAIN,api.funimate.com,Fake iAP Policy
 #VideoStart
 DOMAIN,testapps.videostarapp.com,Fake iAP Policy
+#Musixmatch
+DOMAIN,apic.musixmatch.com,Fake iAP Policy
