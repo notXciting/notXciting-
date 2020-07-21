@@ -7,4 +7,8 @@ DOMAIN,api.funimate.com,Fake iAP Policy
 #VideoStart
 DOMAIN,testapps.videostarapp.com,Fake iAP Policy
 #Musixmatch
-DOMAIN,api.musixmatch.com,Fake iAP Policy
+DOMAIN,apic.musixmatch.com,Fake iAP Policy
+#Speak&Translate
+DOMAIN,receipt-validator.herewetest.com,Fake iAP Policy
+#PlayerXtreme
+DOMAIN,secure.istreamer.com,Fake iAP Policy
