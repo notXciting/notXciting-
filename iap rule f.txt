@@ -1,2 +1,8 @@
 #AlightMotion
 DOMAIN,us-central1-alight-creative.cloudfunctions.net,Fake iAP Policy
+#Picsart
+DOMAIN,api.picsart.com,Fake iAP Policy
+#Funimate
+DOMAIN,api.funimate.com,Fake iAP Policy
+#VideoStart
+DOMAIN,testapps.videostarapp.com,Fake iAP Policy
